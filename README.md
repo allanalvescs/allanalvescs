@@ -1,5 +1,9 @@
 ### Olá, eu sou Allan Alves 👋
 
+#### Sou Desenvolvedor Front End
+
+#### Atualmente estudando Node.JS e banco de dados (PostgreSQL)
+
 <div styled="display: flex; ">
 <div align="center" style="display: inline_block">
   <a href="https://github.com/allanalvescs">
