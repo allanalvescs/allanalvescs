@@ -1,6 +1,6 @@
 ### Olá, eu sou Allan Alves 👋
 
-#### Sou Desenvolvedor Front End
+#### Sou Desenvolvedor Full-Stack
 
 #### Atualmente estudando Node.JS e banco de dados (PostgreSQL)
 
