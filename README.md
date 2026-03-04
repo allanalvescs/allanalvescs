@@ -2,7 +2,7 @@
 
 #### Sou Desenvolvedor Full-Stack
 
-#### Atualmente estudando Node.JS e banco de dados (PostgreSQL)
+#### Especializado em desenvonvimento com Node.js, NestJS banco de dados (PostgreSQL, MongoBD) para back-end e React para front-end
 
 <div styled="display: flex; ">
 <div align="center" style="display: inline_block">
